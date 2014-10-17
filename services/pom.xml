@@ -15,4 +15,7 @@
 
     <name>K-D-E :: Services</name>
 
+    <modules>
+        <module>sample-service</module>
+    </modules>
 </project>

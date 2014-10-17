@@ -17,13 +17,14 @@
     </scm>
 
     <modules>
-        <module>assembly</module>
         <module>services</module>
+        <module>assembly</module>
     </modules>
 
     <properties>
         <karaf.version>3.0.1</karaf.version>
         <osgi.version>5.0.0</osgi.version>
+        <camel.version>2.13.0</camel.version>
 
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>

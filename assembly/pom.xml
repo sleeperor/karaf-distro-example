@@ -15,5 +15,8 @@
 
     <name>K-D-E :: Assembly</name>
 
-
+    <modules>
+        <module>custom-feature</module>
+        <module>custom-distro</module>
+    </modules>
 </project>
